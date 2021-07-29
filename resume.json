@@ -1,0 +1,107 @@
+{
+  "basics": {
+    "name": "Rishab Mangal",
+    "label": "Student",
+    "picture": "https://rishabmangal.netlify.app/static/media/profile.b41475e2.jpg",
+    "email": "rishabhmangal1@gmail.com",
+    "phone": "9928799243",
+    "website": "rishabmangal.netlify.app",
+    "summary": "Enthusiastic Full Stack web Developer.Open to Work",
+    "location": {
+      "address": "C.M. Pansari,Paota,",
+      "postalCode": "303106",
+      "city": "Jaipur",
+      "countryCode": "India",
+      "region": "Rajasthan"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "Rishabhmangal4",
+        "url": "https://www.twitter.com/Rishabhmangal4"
+      },
+      {
+        "network": "Github",
+        "username": "RishabMangal",
+        "url": "https://www.github.com/RishabMangal/"
+      },
+      {
+        "network": "linkedin",
+        "username": "rishab-1999",
+        "url": "https://www.linkedin.com/in/rishab-1999/"
+      },
+      {
+        "network": "Instagram",
+        "username": "rishabhmangal1",
+        "url": "https://instagram.com/rishabhmangal1"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Jan Elaaj",
+      "position": "Front end Web developer",
+      "website": "janelaaj.com",
+      "startDate": "2021-01-01",
+      "endDate": "2021-08-01 ",
+      "summary": "Jan Elaaj is a HealthCare startup which provides a platform for Patients and Doctors to connect virtually and take care of all medical needs.",
+      "highlights": [
+        "React,Node JS,HTML,CSS,JS",
+        "Developed Front end of the website."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Chefaura",
+      "position": "Front End Web Developer",
+      "website": "chefaura.com",
+      "startDate": "2020-08-01 ",
+      "endDate": "2021-01-01",
+      "summary": "An Instagram for recipes.",
+      "highlights": ["developed front end of the Website using react and antd"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indian Institute of Information Technology,Kota",
+      "area": "Engineering",
+      "studyType": "Bachelor (hons)",
+      "startDate": "2018-04-08",
+      "endDate": "2022-06-30",
+      "gpa": "8.36",
+      "courses": ["Computer Science & Engineering"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Scholarship",
+      "awarder": "SJE Rajasthan",
+      "date": "2020-08-21"
+    }
+  ],
+  "publications": [
+    {
+      "title": "---Enter Title---",
+      "details": "---Enter Details---",
+      "link": "---github/website link to show your work---"
+    }
+  ],
+  "skills": [
+    {
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "NodeJs"]
+    },
+    {
+      "level": "Basic",
+      "keywords": ["Python", "java"]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": ["Chess", "Badminton"]
+    }
+  ],
+  "references": []
+}
